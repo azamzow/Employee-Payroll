@@ -23,4 +23,4 @@ $ java PayrollDemo
 
 EmployeeDemo.java displays the 3 employees and their information. 
 
-PayrollDemo.java first asks user to enter the employees name, id, pay rate, and hours worked in the week. The it displays the employees information from the input with also the calcuated gross pay. 
+PayrollDemo.java first asks user to enter the employees name, id, pay rate, and hours worked in the week. Then, displays the employees information from the input with also the calcuated gross pay. 
