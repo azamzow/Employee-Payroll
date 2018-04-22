@@ -4,7 +4,7 @@
 
 EmployeeDemo creates 3 new employees and displays the employees information saved. Such as Name, ID, Department and Position.
 
-PayrollDemo allows the user to add an employee. After the new employee is added, the program displays the information, uch as Name, ID, Payrate and Hours Worked, also with the gross pay. 
+PayrollDemo allows the user to add an employee. After the new employee is added, the program displays the information, such as Name, ID, Payrate and Hours Worked, along with the gross pay. 
 
 ### To Run
 
